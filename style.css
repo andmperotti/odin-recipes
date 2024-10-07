@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: red;
+    border-radius: 5px;
+    margin: auto;
+    width: 15vw;
+}
+
+ul{
+    list-style-type: none;
+    background-color: lightskyblue;
+}
+
+li{
+    text-align: center;
+}
+
