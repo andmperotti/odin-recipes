@@ -2,16 +2,27 @@ h1{
     text-align: center;
     background-color: red;
     border-radius: 5px;
-    margin: auto;
+    margin: 5px auto;
     width: 15vw;
+    padding: 5px;
+    color: white;
 }
 
 ul{
-    list-style-type: none;
     background-color: lightskyblue;
+    margin: 5px auto;
+    border-radius: 5px;
+    width: 20vw;
+    padding: 0;
 }
 
 li{
     text-align: center;
+    display: block;
+    max-width: 75%;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+
 }
 
